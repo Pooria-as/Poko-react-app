@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Poko-react-app/static/css/main.7432b503.chunk.css",
+    "main.js": "/Poko-react-app/static/js/main.4474e3d3.chunk.js",
+    "main.js.map": "/Poko-react-app/static/js/main.4474e3d3.chunk.js.map",
+    "runtime-main.js": "/Poko-react-app/static/js/runtime-main.c7fecb48.js",
+    "runtime-main.js.map": "/Poko-react-app/static/js/runtime-main.c7fecb48.js.map",
+    "static/js/2.37f6d1fa.chunk.js": "/Poko-react-app/static/js/2.37f6d1fa.chunk.js",
+    "static/js/2.37f6d1fa.chunk.js.map": "/Poko-react-app/static/js/2.37f6d1fa.chunk.js.map",
+    "index.html": "/Poko-react-app/index.html",
+    "static/css/main.7432b503.chunk.css.map": "/Poko-react-app/static/css/main.7432b503.chunk.css.map",
+    "static/js/2.37f6d1fa.chunk.js.LICENSE.txt": "/Poko-react-app/static/js/2.37f6d1fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7fecb48.js",
+    "static/js/2.37f6d1fa.chunk.js",
+    "static/css/main.7432b503.chunk.css",
+    "static/js/main.4474e3d3.chunk.js"
+  ]
+}
