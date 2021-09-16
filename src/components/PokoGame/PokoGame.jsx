@@ -27,8 +27,8 @@ class PokoGame extends React.Component {
 
         return (
             <div>
-            <Pokemon items={hand1} experience={parseInt(experience1).toString()} winner={experience1 > experience2}/>
-            <Pokemon items={hand2} experience={parseInt(experience2).toString()} winner={experience2 > experience1 }/>
+            <Pokemon items={hand1} experience={experience1} winner={experience1 > experience2}/>
+            <Pokemon items={hand2} experience={experience2} winner={experience2 > experience1 }/>
          
             </div>
             );
